@@ -1,7 +1,7 @@
 # interview-challenge
 Programming challenge for potential candidates
 
-##Submitting
+## Submitting
 Please create a zip file containing
 
 Any source code files needed to run your program
