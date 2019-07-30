@@ -9,10 +9,9 @@ User: `jdoe` Password: `password` should be able to login successfully with all 
 * Demonstrate use of web standards including HTML5.
 * Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).
 * Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.
-* Follow the style guidelines listed below.
 
 ## Notes 
-You may use SASS or LESS to pre-compile your CSS.
+You may use SASS, LESS, PostCSS, etc to pre-compile your CSS.
 
 ## Styling Suggestions
 These are loose guidelines and you may feel free to customize as you feel is appropriate.
