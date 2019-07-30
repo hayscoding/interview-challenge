@@ -17,6 +17,7 @@ You may use SASS, LESS, PostCSS, etc to pre-compile your CSS.
 These are loose guidelines and you may feel free to customize as you feel is appropriate.
 
 * Use the "Roboto" Google font
+
 Use the following colors
 * Page background: #FFFFFF
 * Default/normal font color: #494949
